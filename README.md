@@ -34,5 +34,4 @@ An advanced, production-grade **n8n automation workflow** that schedules daily w
 * **Node Type:** Integration Node (Output/Delivery)
 * **Role in Bot:** Automated email dispatch.
 
----
-*Developed as a demonstration of low-code/no-code enterprise orchestration combining AI capabilities with automated messaging.*
+developed by ******* Naeema Annum NisaR*******
